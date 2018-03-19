@@ -1,0 +1,2 @@
+# SpringCloudConfigProperties
+SpringCloudConfigProperties
